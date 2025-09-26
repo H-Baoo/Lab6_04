@@ -1,3 +1,5 @@
+22658171 - Đặng Hoài Bảo
+
 Đầu tiên mở terminal cd thư mục simple_auth cài: npm install
 
 A. Chạy server node basic_auth.js
